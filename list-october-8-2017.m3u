@@ -35,8 +35,8 @@ http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://srv00.epimg.net/m/programacion-tv/iconos/canales/neox.png" group-title="SPAIN",Neox
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
 
-#EXTINF:-1 group-title="ESPAÑA", Mega
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.tvalacarta.info/canales/256x256/megatvusa.png" group-title="ESPAÑA",Mega
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8?tecnotv.info?iptv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kLzKyaA.jpg" group-title="SPAIN",Canal 24 Horas
 http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/master.m3u8
