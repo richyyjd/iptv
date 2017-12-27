@@ -91,6 +91,8 @@ http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 #EXTINF:-1 group-title="INFANTIL", Anime TV
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%20tv%20Series%20y%20Animes%20de%20Tv.png" group-title="SPAIN",Hit TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
 
 #RELIGION
 #EXTINF:0,Trinity Channel
@@ -262,6 +264,8 @@ http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/IySuiDK.png" group-title="MEXICO",ESPN 3 HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ESPN_3_HD)/index.m3u8
 
-#EXTINF:-1,NBA TV HD
-http://149.56.26.6:25461/live/dreamscanales/123456/34677.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5tEE0qP.png" group-title="USA",NBA TV (Opt-1)
+http://216.31.255.235/hlsl/5/NBATV/NBATV.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5tEE0qP.png" group-title="USA",NBA TV (Opt-2)
+http://189.216.247.113/Content/HLS/Live/Channel(NBA_TV)/index.m3u8
