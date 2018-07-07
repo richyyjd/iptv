@@ -16,6 +16,8 @@ http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC122/chunklis
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="MUSIC CHOICE",Dance/EDM - Videos
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC127/chunklist.m3u8
 
+#EXTINF:-1 tvg-ID="" tvg-name="La sexta" tvg-logo="http://logo.ndasat.com/iptv/images/thumbs/9614_Lasexta.png" group-title="Spain",La sexta
+http://iptv.ndasat.com:88/live/329388682628645/329388682628645/970.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/TP2hB6Ts-Dw/hqdefault.jpg" group-title="SPAIN",Antena 3
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
