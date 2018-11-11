@@ -1,0 +1,260 @@
+#EXTM3U
+# @LaQuay https://github.com/LaQuay/TDTChannels
+#EXTINF:-1 tvg-id="TVE ASTRA HD 1.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/125px-Logo_TVE-1.svg.png" group-title="Generalistas", La 1
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7.m3u8
+#EXTINF:-1 tvg-id="LA2 ASTRA SD 1.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/150px-Logo_TVE-2.svg.png" group-title="Generalistas", La 2
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8
+#EXTINF:-1 tvg-id="A3 ASTRA HD 1.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/100px-Antena_3_%282017%29.svg.png" group-title="Generalistas", Antena 3
+https://antena3-pull2b-a3player.secure.footprint.net/antena3/master.m3u8
+#EXTINF:-1 tvg-id="A3 ASTRA HD 1.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/100px-Antena_3_%282017%29.svg.png" group-title="Generalistas", Antena 3
+https://antena3-pull2b-a3player.secure.footprint.net/geoantena3/master.m3u8
+#EXTINF:-1 tvg-id="SEXTA ASTRA HD 1.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/75px-La_Sexta_%28A3M%29.svg.png" group-title="Generalistas", laSexta
+https://lasexta-pull2c-a3player.secure.footprint.net/lasexta/master.m3u8
+#EXTINF:-1 tvg-id="SEXTA ASTRA HD 1.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/75px-La_Sexta_%28A3M%29.svg.png" group-title="Generalistas", laSexta
+https://lasexta-pull2c-a3player.secure.footprint.net/geolasexta/master.m3u8
+#EXTINF:-1 tvg-id="NEOX ASTRA SD 1.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/150px-Neox.svg.png" group-title="Generalistas", Neox
+https://neox-pull1b-a3player.secure.footprint.net/neox/master.m3u8
+#EXTINF:-1 tvg-id="NEOX ASTRA SD 1.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/150px-Neox.svg.png" group-title="Generalistas", Neox
+https://neox-pull1b-a3player.secure.footprint.net/geoneox/master.m3u8
+#EXTINF:-1 tvg-id="NOVA ASTRA SD 1.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/150px-Nova.svg.png" group-title="Generalistas", Nova
+https://nova-pull1c-a3player.secure.footprint.net/nova/master.m3u8
+#EXTINF:-1 tvg-id="NOVA ASTRA SD 1.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/150px-Nova.svg.png" group-title="Generalistas", Nova
+https://nova-pull1c-a3player.secure.footprint.net/geonova/master.m3u8
+#EXTINF:-1 tvg-id="MEGA TDT SD 1.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/150px-MEGA.svg.png" group-title="Generalistas", Mega
+https://mega-pull2a-a3player.secure.footprint.net/mega/master.m3u8
+#EXTINF:-1 tvg-id="MEGA TDT SD 1.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/150px-MEGA.svg.png" group-title="Generalistas", Mega
+https://mega-pull2a-a3player.secure.footprint.net/geomega/master.m3u8
+#EXTINF:-1 tvg-id="ATRESS TDT HD 1.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/125px-AtreseriesLogo.svg.png" group-title="Generalistas", Atreseries
+https://a3series-pull2a-a3player.secure.footprint.net/a3series/master.m3u8
+#EXTINF:-1 tvg-id="ATRESS TDT HD 1.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/125px-AtreseriesLogo.svg.png" group-title="Generalistas", Atreseries
+https://a3series-pull2a-a3player.secure.footprint.net/geoa3series/master.m3u8
+#EXTINF:-1 tvg-id="13TV TDT SD 1.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/150px-Trece.svg.png" group-title="Generalistas", TRECE TV
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Intereconom%C3%ADa.png/245px-Intereconom%C3%ADa.png" group-title="Generalistas", Intereconomía
+http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/master.m3u8
+#EXTINF:-1 tvg-id="24H ASTRA SD 1.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/150px-Logo_TVE-24h.svg.png" group-title="Informativos", 24h
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24h_onlydash_lv3_aosv4_gl8/24h_onlydash_lv3_aosv4_gl8.isml/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.congreso.es/wc/htdocs/web/img/canal_parlamento.gif" group-title="Informativos", Canal Parlamento
+http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/index_600_av-b.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Logo_Europa_Press.jpeg" group-title="Informativos", EuropaPress
+http://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8
+#EXTINF:-1 tvg-id="TDEP ASTRA SD 1.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Tve_teledeporte.png/150px-Tve_teledeporte.png" group-title="Deportivos", TDP
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl1/tdp_onlydash_lv3_aosv4_gl1/tdp_onlydash_lv3_aosv4_gl1.isml/master.m3u8
+#EXTINF:-1 tvg-id="TDEP ASTRA SD 1.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Tve_teledeporte.png/150px-Tve_teledeporte.png" group-title="Deportivos", TDP HD
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl1/tdphd_lv3_aosv4_gl1/tdphd_lv3_aosv4_gl1.isml/master.m3u8
+#EXTINF:-1 tvg-id="GOL TDT SD 2.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/150px-Gol.svg.png" group-title="Deportivos", Gol TV
+http://cdn.opencable.es/hls/live/goltv/index.m3u8
+#EXTINF:-1 tvg-id="REALM ASTRA SD 1.sp" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fc/RMTVtdt.jpg/revision/latest/scale-to-width-down/640?cb=20160826131630" group-title="Deportivos", RealMadrid TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
+#EXTINF:-1 tvg-id="REALM ASTRA SD 1.sp" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fc/RMTVtdt.jpg/revision/latest/scale-to-width-down/640?cb=20160826131630" group-title="Deportivos", RealMadrid TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
+#EXTINF:-1 tvg-logo="https://justpaste.it/files/justpaste/d347/a13082408/9aeb55aeafbfc2ec39d70bef6e48af07.png" group-title="Deportivos", Betis TV
+http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Bt8Pc9_CIAAhqV_.jpg" group-title="Deportivos", Sevilla TV
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.hittv.es/images/logo.png" group-title="Musicales", Hit TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8
+#EXTINF:-1 tvg-id="ANTV ASTRA SD 1.sp" group-title="Andalucía", Canal Sur TV
+http://canalsur-new-live.hls.adaptive.level3.net/egress/bhandler/canalsur_live/rtva_new/master.m3u8
+#EXTINF:-1 group-title="Andalucía", Canal Andalucia Turismo TV
+https://593fa17dec176.streamlock.net/csturismo/csturismo.stream/master.m3u8
+#EXTINF:-1 group-title="Andalucía", Canal Andalucia Flamenco TV
+https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/master.m3u8
+#EXTINF:-1 group-title="Andalucía", Canal Andalucia Cocina TV
+https://593fa17dec176.streamlock.net/cscocina/cscocina.stream/master.m3u8
+#EXTINF:-1 group-title="Andalucía", Canal Sur La Banda TV
+https://593fa17dec176.streamlock.net/cslabanda/cslabanda.stream/master.m3u8
+#EXTINF:-1 group-title="Andalucía", Canal Sur Eventos 1
+http://canalsur-new-live.hls.adaptive.level3.net/egress/bhandler/canalsur_live/eventos_01/master.m3u8
+#EXTINF:-1 group-title="Andalucía", Canal Sur Eventos 2
+http://canalsur-new-live.hls.adaptive.level3.net/egress/bhandler/canalsur_live/eventos_02/master.m3u8
+#EXTINF:-1 group-title="Andalucía", 101TV Málaga
+https://wowzaprod178-i.akamaihd.net/hls/live/677404/156dc2a6/playlist.m3u8
+#EXTINF:-1 group-title="Andalucía", Onda Cadiz TV
+http://adc.hls.flumotion.com/adc/live-hls/playlist.m3u8
+#EXTINF:-1 group-title="Andalucía", 8 Chiclana
+http://cls2.todostreaming.eu/unatv/live/playlist.m3u8
+#EXTINF:-1 group-title="Andalucía", Huelva TV
+http://cls.todostreaming.eu/telehuelva/restricted/playlist.m3u8
+#EXTINF:-1 group-title="Andalucía", Onda Algeciras TV
+http://cls.provideo.es/algecirastv/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Andalucía", Teleonuba
+http://stream.teleonuba.es:1935/live/GdZpE8ef/playlist.m3u8
+#EXTINF:-1 group-title="Andalucía", El Correo de Andalucía TV
+http://cls.todostreaming.eu/luztv/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Andalucía", Marbella RTV
+http://cls.todostreaming.eu/marbellatv/saldubatv/playlist.m3u8
+#EXTINF:-1 group-title="Andalucía", Onda Azul Málaga RTV
+http://canalmalaga-tv-live.flumotion.com/chunks.m3u8
+#EXTINF:-1 group-title="Andalucía", Ondaluz TV
+http://cls.elitehd-audiovisuales.com/ondaluz/olandalucia/playlist.m3u8
+#EXTINF:-1 group-title="Andalucía", Estepona TV
+http://62.210.96.18:1935/esteponatv/esteponatv/playlist.m3u8
+#EXTINF:-1 group-title="Andalucía", Costa del Sol TV
+http://cls.todostreaming.eu/benalmadena/webtv/playlist.m3u8
+#EXTINF:-1 group-title="Andalucía", Málaga TV
+http://canalmalaga-tv-live.flumotion.com/playlist.m3u8
+#EXTINF:-1 group-title="Andalucía", Mijas TV
+http://mijas.hls.flumotion.com/mijas/live-hls/master.m3u8
+#EXTINF:-1 group-title="Andalucía", PTV Córdoba
+http://149.91.98.146:1935/cordoba/stream/playlist.m3u8
+#EXTINF:-1 group-title="Andalucía", PTV Málaga
+http://149.91.98.146:1935/live/stream/playlist.m3u8
+#EXTINF:-1 group-title="Andalucía", Cancionero TV
+http://89.140.99.41/hls/1080.m3u8
+#EXTINF:-1 tvg-id="Aragon TV Int.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_aragon_tv_2016.png" group-title="Aragón", Aragón TV
+http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
+#EXTINF:-1 tvg-logo="http://www.canal25tv.es/images/template-content/untitled.png" group-title="Aragón", Canal 25 Barbastro TV
+http://188.165.135.22/tvbarbastro/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Logo-tpa7.jpg" group-title="Asturias", A7
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+#EXTINF:-1 group-title="Canarias", El Día TV
+http://vs8.live.opencaster.com/opencaster/zmyrfjHztaoj/playlist.m3u8
+#EXTINF:-1 group-title="Canarias", Lancelot TV
+http://62.210.141.18:1935/directo/lancelot.television/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i1.wp.com/soulserviciodeportivo.es/wp-content/uploads/2018/10/Entrevista-Victor-Calvo-Sanchez-entrenador-personal.png?resize=300%2C168" group-title="Cantabria", Popular TV Cantabria
+http://cls.todostreaming.eu/ptvcantabria/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/CMMedia.png" group-title="Castilla la Mancha", Castilla-La Mancha Media
+http://fstlive.kaltura.com/dc-0/live/hls/p/2288691/e/0_xs45iy5i/sd/6000/t/ifm5L7FLTqavxjA9TQ7e9w/master.m3u8
+#EXTINF:-1 group-title="Castilla la Mancha", Hellin TV
+http://hellin.hls.flumotion.com/hellin/hellin-hls/playlist.m3u8
+#EXTINF:-1 group-title="Castilla la Mancha", Imás TV
+http://cls.todostreaming.eu/imastv/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Castilla la Mancha", Alcarria TV
+http://cls.todostreaming.eu/alcarriatv/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Castilla la Mancha", Canal Diocesano Toledo
+http://178.32.53.254/rtvd/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Logo_CYL7.svg/946px-Logo_CYL7.svg.png" group-title="Castilla y León", CyL7
+http://cdn.s3.eu.nice264.com:1935/niceLiveServer/cyl_aaf8301a8e99d2acb611ceca62441ec5/chunklist_w269964917.m3u8
+#EXTINF:-1 tvg-id="TVC ASTRA SD 1.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/150px-TV3.svg.png" group-title="Catalunya", TV3
+http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:tv3_web/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/324_%28CCMA%29_logo.svg/150px-324_%28CCMA%29_logo.svg.png" group-title="Catalunya", 324
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/33_%28CCMA%29.svg/150px-33_%28CCMA%29.svg.png" group-title="Catalunya", 33
+http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:c33_web/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/150px-Esport3.svg.png" group-title="Catalunya", Esport 3
+http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:es3_web/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Catalunya", Super3
+http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:c33_web/playlist.m3u8
+#EXTINF:-1 group-title="Catalunya", TV3 Càmeres
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:beauties_web/playlist.m3u8
+#EXTINF:-1 group-title="Catalunya", La 1 Catalunya
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583041/master.m3u8
+#EXTINF:-1 group-title="Catalunya", 8tv
+http://streaming.8tv.cat/8TV/8aldia-directe/playlist.m3u8
+#EXTINF:-1 group-title="Catalunya", El Punt Avui TV
+http://live10.cdnmedia.tv/puntavuitvlive/live.smil/playlist.m3u8
+#EXTINF:-1 group-title="Catalunya", teleb
+http://live10.cdnmedia.tv/badalonatvlive/live.smil/playlist.m3u8
+#EXTINF:-1 group-title="Catalunya", etv
+http://live10.cdnmedia.tv/etvlive/live.smil/playlist.m3u8
+#EXTINF:-1 group-title="Catalunya", Mataró TV
+http://live10.cdnmedia.tv/m1tvlive/live.smil/playlist.m3u8
+#EXTINF:-1 group-title="Catalunya", Mola TV
+http://ventdelnord.tv:8080/mola/directe.m3u8
+#EXTINF:-1 group-title="Catalunya", Lleida TV
+http://live10.cdnmedia.tv/lleidatvlive/live.smil/playlist.m3u8
+#EXTINF:-1 group-title="Catalunya", Televisió de Girona
+http://ventdelnord.tv:8080/girona/directe.m3u8
+#EXTINF:-1 group-title="Catalunya", votv
+http://live10.cdnmedia.tv/votvlive/live.smil/playlist.m3u8
+#EXTINF:-1 group-title="Catalunya", El 9 TV
+http://live10.cdnmedia.tv/9tvlive/live.smil/playlist.m3u8
+#EXTINF:-1 group-title="Catalunya", canalterrassa
+http://173.212.214.184:1935/terrassaweb/terrassaweb/playlist.m3u8
+#EXTINF:-1 group-title="Catalunya", 25 TV
+http://cdnlive.shooowit.net/25televisiolive/25tv.smil/.m3u8
+#EXTINF:-1 group-title="Catalunya", Canal Blau
+http://live10.cdnmedia.tv/blautvlive/live.smil/playlist.m3u8
+#EXTINF:-1 group-title="Catalunya", Mar TV
+http://k4.usastreams.com/CableLatino/martv/playlist.m3u8
+#EXTINF:-1 group-title="Catalunya", TAC 12
+http://vid=live10.cdnmedia.tv/tac12live/live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ca/thumb/e/e4/Logotip_Parlament_de_Catalunya.svg/1280px-Logotip_Parlament_de_Catalunya.svg.png" group-title="Catalunya", Canal Parlament
+https://cdn-s1-eu.nice264.com/niceLiveServer/_definst_/pcatlive_canal1_MB_800/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Logo_Ceuta_Televisi%C3%B3n.png" group-title="Ceuta", Ceuta TV
+http://cls.todostreaming.eu/anguloce/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/RtvCeuta.svg/150px-RtvCeuta.svg.png" group-title="Ceuta", RTVCE
+http://teledifusion.tv:1935/rtvcetv/mp4:rtvcetvlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/150px-CEXMA_new.png" group-title="Extremadura", Canal Extremadura
+http://hlstv.canalextremadura.es/livetv/multistream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Galicia", Galicia Europa TV
+http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 group-title="Galicia", Galicia América TV
+http://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 group-title="Galicia", Galicia Infantil TV
+http://infantil-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 group-title="Galicia", Galicia Musical TV
+http://musigal-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 group-title="Galicia", Galicia Cultura TV
+http://cultural-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 group-title="Galicia", Galicia Momentos G TV
+http://momentog-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Mosca_IB3_fondo_blanco.jpg" group-title="Islas Baleares", IB3 TV
+http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/master.m3u8
+#EXTINF:-1 tvg-logo="https://teftv.com/wp-content/uploads/2016/02/TEF_1240x100.jpg" group-title="Islas Baleares", TEF
+http://server10.streaming-pro.com:1937/live/teftvlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/150px-TeleMadrid.svg.png" group-title="Madrid", Telemadrid
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/LaOtra.svg/150px-LaOtra.svg.png" group-title="Madrid", LaOtra
+http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.dejatedehistorias.es/wordpress/wp-content/uploads/2017/07/DejatedeHistoriasLogo.jpg" group-title="Madrid", Déjate de Historias TV
+http://cls.todostreaming.eu/tvstream/webtv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://distritotv.es/wp-content/uploads/2018/04/ElDistrito_Logo_PNG.jpg" group-title="Madrid", Distrito TV
+https://cdn01.yowi.tv/KQRSDA7GDB/live-1000.m3u8
+#EXTINF:-1 tvg-logo="https://i1.wp.com/televisiones.lasteles.com/wp-content/uploads/2018/05/MELILLA-1.png?fit=500%2C320" group-title="Melilla", Melilla TV
+http://melillatv-hls.flumotion.com/melillatv/ngrp:melillatv_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i2.wp.com/populartvmelilla.es/wp-content/uploads/2016/08/cropped-popular-tv.jpeg?fit=500%2C500&ssl=1" group-title="Melilla", Popular TV Melilla
+https://5940924978228.streamlock.net/8009/8009/master.m3u8
+#EXTINF:-1 tvg-logo="http://webtv.7tvregiondemurcia.es/assets/home/images/logos/television-region-mucia.png" group-title="Murcia", La7
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/90/ETB_Sat_logo_2009.png/revision/latest?cb=20110830201749" group-title="Pais Vasco", ETB SAT Canal Vasco
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/ETB1_Spain.svg/1280px-ETB1_Spain.svg.png" group-title="Pais Vasco", ETB 1
+http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/ETB2_Spain.svg/150px-ETB2_Spain.svg.png" group-title="Pais Vasco", ETB 2
+http://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8
+#EXTINF:-1 group-title="Pais Vasco", Hamaika TV
+http://bideometa.info/h.m3u8
+#EXTINF:-1 group-title="Pais Vasco", TeleBilbao
+http://cls.todostreaming.eu/telebilbao/restricted/playlist.m3u8
+#EXTINF:-1 group-title="Pais Vasco", TeleDonosti
+https://bcsecurelivehls-i.akamaihd.net/hls/live/568968/85688294001/chunklist.m3u8
+#EXTINF:-1 group-title="Pais Vasco", Goiena
+http://zuzenean.goienamedia.eus:8443/telebista.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logotip_d%27%C3%80_Punt_%282017-%29.svg/150px-Logotip_d%27%C3%80_Punt_%282017-%29.svg.png" group-title="Valencia", À Punt
+https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cn/d77d4356674b449695b1c0f19fbd6fae_6.m3u8
+#EXTINF:-1 tvg-logo="http://www.laocho.tv/es/wp-content/themes/laochotv_V2.0/images/logo_TVMed_pie.png" group-title="Valencia", La 8 Mediterraneo
+http://streaming-fr02.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/playlist.m3u8
+#EXTINF:-1 group-title="Valencia", 7 TeleValencia
+http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/mobile/playlist.m3u8
+#EXTINF:-1 group-title="Valencia", Levante TV
+http://teledifusion.tv:1935/levantetvlive/mp4:levantetvlive/playlist.m3u8
+#EXTINF:-1 group-title="Valencia", TeleElx
+http://teledifusion.tv:1935/teleelx/teleelxlive/playlist.m3u8
+#EXTINF:-1 group-title="Valencia", Tele Safor
+http://video.telesafor.com/hls/video.m3u8
+#EXTINF:-1 group-title="Valencia", Vega Baja TV
+http://185.29.68.24/tvb.m3u8
+#EXTINF:-1 group-title="Valencia", Ribera TV
+http://orion.comelson.es/ribera/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Valencia", TV4 La Vall
+http://178.32.53.254/15o8376r/mystream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/150px-TV3CAT.svg.png" group-title="Internacional", TV3CAT
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Franceinfo.svg/1280px-Franceinfo.svg.png" group-title="Internacional", franceinfo:
+https://stream-09.dc3.dailymotion.com/dm/3/x4rdeu6/live-3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/ABC_News_solid_black_logo.svg/1280px-ABC_News_solid_black_logo.svg.png" group-title="Internacional", ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/635px-France24.png" group-title="Internacional", France 24
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CBS_News.svg/2000px-CBS_News.svg.png" group-title="Internacional", CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="Internacional", DW
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+#EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3782973_logo_cgtn.png" group-title="Internacional", CGTV
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1280px-NASA_TV.svg.png" group-title="Internacional", NASA TV - Public
+http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1280px-NASA_TV.svg.png" group-title="Internacional", NASA TV - Media
+http://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8
